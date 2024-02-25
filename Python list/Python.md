@@ -7,4 +7,5 @@ https://colab.research.google.com/drive/1xPMXqGJdekVxWxwpmNtwTIjuVPNsZfDL?usp=sh
 Lista 3 - Colab:
 https://colab.research.google.com/drive/1om3DyMpez0MIeEY-yfXJbKTaplAWQmn2?usp=sharing
 
-Playlist onde dou monitoria em Python pra alunos da Unb. 
+Playlist onde dou monitoria em Python pra alunos da Unb:
+https://youtube.com/playlist?list=PLveZl8BDTcI-G0gwE-P0JB7_pf2vp6YjV&si=vozmqdgMJj3eG-Je
